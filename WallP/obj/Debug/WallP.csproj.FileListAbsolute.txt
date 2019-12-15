@@ -1,0 +1,28 @@
+C:\Users\passi\Desktop\WallP\WallP\bin\Debug\WallP.exe.config
+C:\Users\passi\Desktop\WallP\WallP\bin\Debug\WallP.exe
+C:\Users\passi\Desktop\WallP\WallP\bin\Debug\WallP.pdb
+C:\Users\passi\Desktop\WallP\WallP\obj\Debug\WallP.csprojAssemblyReference.cache
+C:\Users\passi\Desktop\WallP\WallP\obj\Debug\MainWindow.g.cs
+C:\Users\passi\Desktop\WallP\WallP\obj\Debug\App.g.cs
+C:\Users\passi\Desktop\WallP\WallP\obj\Debug\WallP_MarkupCompile.cache
+C:\Users\passi\Desktop\WallP\WallP\obj\Debug\WallP_MarkupCompile.lref
+C:\Users\passi\Desktop\WallP\WallP\obj\Debug\MainWindow.baml
+C:\Users\passi\Desktop\WallP\WallP\obj\Debug\WallP.g.resources
+C:\Users\passi\Desktop\WallP\WallP\obj\Debug\WallP.Properties.Resources.resources
+C:\Users\passi\Desktop\WallP\WallP\obj\Debug\WallP.csproj.GenerateResource.cache
+C:\Users\passi\Desktop\WallP\WallP\obj\Debug\WallP.exe
+C:\Users\passi\Desktop\WallP\WallP\obj\Debug\WallP.pdb
+C:\Program Files\WallP\WallP\bin\Debug\WallP.exe.config
+C:\Program Files\WallP\WallP\bin\Debug\WallP.exe
+C:\Program Files\WallP\WallP\bin\Debug\WallP.pdb
+C:\Program Files\WallP\WallP\obj\Debug\WallP.csprojAssemblyReference.cache
+C:\Program Files\WallP\WallP\obj\Debug\MainWindow.g.cs
+C:\Program Files\WallP\WallP\obj\Debug\App.g.cs
+C:\Program Files\WallP\WallP\obj\Debug\WallP_MarkupCompile.cache
+C:\Program Files\WallP\WallP\obj\Debug\WallP_MarkupCompile.lref
+C:\Program Files\WallP\WallP\obj\Debug\MainWindow.baml
+C:\Program Files\WallP\WallP\obj\Debug\WallP.g.resources
+C:\Program Files\WallP\WallP\obj\Debug\WallP.Properties.Resources.resources
+C:\Program Files\WallP\WallP\obj\Debug\WallP.csproj.GenerateResource.cache
+C:\Program Files\WallP\WallP\obj\Debug\WallP.exe
+C:\Program Files\WallP\WallP\obj\Debug\WallP.pdb

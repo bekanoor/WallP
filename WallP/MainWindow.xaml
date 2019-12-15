@@ -1,0 +1,16 @@
+﻿<Window x:Class="WallP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WallP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="152.8" Width="190.067" ResizeMode="NoResize" Loaded="Window_Loaded" WindowState="Minimized" ShowInTaskbar="False">
+    <Grid Margin="0,0,303,137">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="45*"/>
+        </Grid.ColumnDefinitions>
+
+    </Grid>
+</Window>
